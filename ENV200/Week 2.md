@@ -1,0 +1,86 @@
+Readings:
+- Chapter 5: Ecosystems and Matter Cycling
+	- Chapter conclusions are important for the midterm and final exam
+	- 
+
+Lecture 3: Environmental Systems - Energy and Material Cycles, Part 1
+- Learning Outcomes: 
+	- Learn the building blocks of the ecosystem
+	- Learn about the elements of life: Matter, Energy, and the Ecosystem
+- **Systems Describe Interactions**
+	- A **system** is a network of **interdependent components** and processes with materials and energy flowing from one component of the system to another
+		- Think of a PC, it's a system where each part works with the other to make one full system (the PC) work the way it should be.
+	- An **ecosystem** is a complex assemblage (AKA collection) of animals, plants, and their environment, through which materials and energy move.
+	- Prof. Mentioned **Trophic levels**, look it up.
+- **Systems can be described in General terms**
+	- A simple system consists of:
+		- State variables: AKA compartments, they're essential pieces of a system. 
+			- Stores resources such as energy, matter, or water
+			- They're basically each PC part, individually (i.e. GPU, RAM, PSU)
+		- Flows: AKA pathways, by which those resources (state variables) move from one state variable to another 
+			- Basically the wires that connect the PC parts together
+- ![[Pasted image 20250512133030.png|400]]
+	- Sun powers plants-> plants eaten by rabbit -> rabbit eaten by fox -> fox dies, decomposes -> composition helps plants -> plants eaten by rabbit -> etc.
+- **Systems can be described in terms of their characteristics**
+	- Types of systems:
+		- **Open systems**: systems that receive inputs from their surroundings and produce outputs that leave the system (i.e. hydrological cycle)
+		- **Closed systems**: Self regulated systems. Systems that exchange no energy or matter with its surroundings (i.e. planet earth)
+		- **Throughput**: a term used to describe the energy and matter that flow into, through, and out of a system (i.e. trophic level)
+			- Read more about Throughput
+- **Feedback loops help stabilize systems**
+	- Systems function in cycles, with each component eventually feeding back to influence the size or rate of itself
+	- A **positive feedback** loop tends to increase a process or component
+	- A **negative feedback** loop diminishes a process or component
+- **Elements of Life**
+	- What exactly are the materials that flow through a system?
+		- Matter is anything that takes up space and has mass
+			- Solid
+			- Liquid
+			- Gas
+	- The principles of **conservation of matter** states that, under ordinary circumstances, matter is neither created nor destroyed but rather is recycled over and over again.
+- Organic compounds have a Carbon Backbone
+	- Carbon is a special element because chains and rings of carbon atoms form the skeletons of **organic compounds**, the material of which biomolecules, and therefore living organisms, are made
+		- Q7 of A 1: Formation of Life
+	- The four major categories of organic compounds in living things (bio-organic compounds) are:
+		- **Lipids**: includes fats and oils, store energy for cells and provide the core of cell membranes and other structures
+		- **Carbohydrates**: includes sugars and starches, also store energy and provide structure to cells. They consist of a long chain of simple sugars like glucose
+		- **Proteins**: composed of chains of amino acids folded into complex 3 D shapes. Proteins provide structure to cells and are used for countless cell functions, including enzymes
+		- **Nucleic acids**: complex molecules made of a 5-carbon sugar that stores genetic information. Extremely important as signaling molecules and as sources within cells.
+- Cells are the fundamental units of life
+	- All living organisms are composed of cells
+	- Cells are assembled of bio-organic compounds in complex ways
+- Nitrogen and Phosphorus are key nutrients
+	- Carbon (C) is captured from air by plants, and oxygen (O) and hydrogen (H) derive from air or water
+	- Additional elements include Nitrogen (N) and Phosphorus (P), which are essential parts of the proteins, lipids, sugars, and nucleic acids in cells
+	- You derive these elements by consuming foods, but plants must extract these elements from their environments
+	- Low levels of N and P often limit growth in ecosystem where they are scarce, and abundance of them cause runaway growth
+- Energy
+	- Energy is the ability to do work such as moving matter over a distance or causing heat transfer between two objects at different temperatures
+	- Energy can take many different forms: heats, light, electricity, and chemical energy
+- Kinetic Energy
+	- The energy contained in moving objects
+		- Examples: rock rolling down a hill, water flowing through a dam, electrons speeding around a nucleus
+- Potential Energy
+	- Stored energy available for use
+		- Example: a rock at the top of a hill (prior to rolling down)
+		- Basically the energy that's preserved before converting into kinetic energy
+	- Chemical energy stored in food I eat and gas put into cars are examples as well.
+- Energy Basics
+	- Heat describes energy that is transferred between objects of different temperatures
+	- Thermodynamics deals with how energy is transferred in natural processes
+		- First law: energy is conserved
+		- Second law: with each energy transfer, less energy is available to do the work
+			- Second law recognizes entropy tends to increase in all natural systems (disorder)
+- Energy for Life
+	- The Sun considered the ultimate energy source
+	- Energy is captured by green plants which are often called **primary producers** because they create carbs and other compounds using just sunlight, air, and water
+	- These organisms get their energy in other ways. These organisms gain their energy through chemosynthesis, a process which allows them to extract energy from inorganic chemical compounds such as hydrogen sulfide (H 2 S).
+- Green Plants get energy from the Sun
+	- 
+- Energy Exchange in Ecosystems
+	- Photosynthesis is an example
+- From Species to Ecosystems
+- Populations, Communities, and Ecosystems
+- Food Chains, Food Webs, and Trophic Levels link Species
+- Trophic Levels
+- 

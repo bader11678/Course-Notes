@@ -1,0 +1,75 @@
+Syllabus Review:
+- course talks about different environmental problems from different perspectives (economical, political, etc.)
+- highlights how solutions exist but nothing is being done
+- Emphasizes on different researches and how taking action now is better than waiting until its too late to do anything
+Learning Outcomes:
+- Understand ecological crisis and understand its outcomes
+- Explain the concept of "wicked problems" and why adopting inter/trans disciplinary solutions are important, as well as how different perspectives contributed to the genesis of ecological crisis
+- Describe sustainability, its nature, as well as crucial transformations required for it to succeed
+- Describe approaches to address the ecological crisis to date and discuss possible strategies to achueve sustainable human societies and regenerative ecosystems 
+
+Readings: 
+- Can a collapse of global civilization be avoided?
+	- Thesis statement: 
+		- Environmental problems have been factors in the collapse of numerous civilizations, and for the first time, **a global one is likely to occur**.
+	- **1. Introduction**: 
+		- Historical Context: 
+			- Introduces the idea that every past civilization went through a collapse, **usually through a loss of socio-political-economic complexity accompanied with a decline in population size.**
+			- Some civilizations (Like Egypt and China) were able to recover, but others (Easter Island or the Classic Maya) went through a permanent collapse.
+			- Highlights the idea that in many cases, **overexploitation of the environment was one proximate or an ultimate cause**.
+		- Current Global Threat:
+			- Humankind is headed towards what is referred to as a "perfect storm", what Prince Charles described it as "an act of suicide on a grand scale". Lists different causes of climate disruptions including:
+				- Overpopulation
+				- Overconsumption of resources
+				- Unsustainable socio-economic and political systems
+				- Land degradation
+			- These problems aren't independent, they interact with each other, and are split into two adaptive systems: **The Biosphere System** and **The Human Socio-Economic System**. The negative interactions between the two systems is called "**the human predicament**".
+			- This predicament is driven by overpopulation and overconsumption AKA the use of unnecessarily environmentally damaging tech to service humans.
+			- At this rate, Earth's resources cannot sustain current population under regular conditions. Humans are consuming resources at **a rate of ~1.5 Earths** now (**If the global population consumes like the US: 5 Earths**).
+			- Technology is considered a double-edged sword: it can help and harm. The widespread belief that tech is "saving us" **is not supported by evidence**. Additionally, GDP and resource use are still tightly coupled.
+	- **2. Do currents trends portend a collapse?**
+		- **Collapse doesn't necessarily mean something specific, it could stem from:**
+			- "Small" nuclear war
+			- Gradual breakdown due to famines, epidemics, resource shortages
+			- Either way, the world as we know it would vanish
+		- **Food System as a critical risk**
+			- **No civilization can survive if they fail to feed their people.**
+			- Agriculture was key to civilization, but modern industrial agriculture created deep vulnerabilities:
+				- Dependence on stable climate
+				- Reliance on fossil fuels, fertilizers, antibiotics, etc.
+				- Long supply chains & transportation
+		- Present-day Warnings
+			- Today, at least 2 billion people are hungry or poorly nourished.
+			- The Food and Agriculture Organizaion (FAO) estimates that increasing food production by 70% would be required to feed a 35% bigger and still growing human population by 2050.
+		- Required actions: Suggested solutions but rarely implemented)
+			- Limit climate disruption
+			- Restrict agricultural land expansion
+			- Shift diets
+			- Reduce food waste
+			- Regulate ocean use
+		- Tech-Only Solutions are Limited
+			- Cheap nuclear energy hasn't emerged
+			- Meat demand from rising middle class worsens feedgrain demand
+		- Climate Disruption and Biophysical Barriers
+			- Climate disruption may reduce crop yield gains
+			- Warming is already slowing gains in basic grain yields
+			- Climate change could severely affect agriculture via:
+				- Reduced yields
+				- Overfishing and ocean acidification
+		- Agriculture's Environmental Impact
+			- Agriculture is a **major emitter of greenhouse gases**, contributing to climate change
+			- It is also highly vulnerable to climate impacts
+			- Over 1000 years of stable climate patterns is now shifting, threatening food productions.
+		- Land-Based Challenges
+			- Key threats to farmland:
+				- Soil degradation
+				- Sea-level rise (Example: 1 m rise floods 17.5% of Bangladesh)
+				- Storm surges
+				- Urbanization
+				- Result: shrinking per capita farmland amid population growth
+		- Demographic
+	- 3. What needs to be done to avoid a collapse?
+	- 4. Dealing with problems beyond food supply
+	- 5. The role of science
+	- 6. The need for rapid social/political change
+	- 7. Conclusions
