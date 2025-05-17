@@ -76,11 +76,30 @@ Lecture 3: Environmental Systems - Energy and Material Cycles, Part 1
 	- Energy is captured by green plants which are often called **primary producers** because they create carbs and other compounds using just sunlight, air, and water
 	- These organisms get their energy in other ways. These organisms gain their energy through chemosynthesis, a process which allows them to extract energy from inorganic chemical compounds such as hydrogen sulfide (H 2 S).
 - Green Plants get energy from the Sun
-	- 
+	- All organisms on the earth rely on the thermonuclear reactions from the sun, leading to processes such as photosynthesis from plants (converts light energy into chemical bonds that hold organic molecules together).
 - Energy Exchange in Ecosystems
 	- Photosynthesis is an example
-- From Species to Ecosystems
 - Populations, Communities, and Ecosystems
+	- Population: all members living somewhere at the same time
 - Food Chains, Food Webs, and Trophic Levels link Species
+	- 
 - Trophic Levels
-- 
+
+
+
+
+Lecture 4: Evolution Species Interactions
+- Learning outcomes: 
+	- Learn about evolution, adaptation, and symbiosis
+- Case study: Darwin
+	- All BS lol 
+- Evolutions and natural selection
+	- Adaptation: acquiring traits that allows a species to ssurvive in an environment
+		- Involves changes in a population, with traits passing down from one generation to the next
+		- Process of fittest individuals passing their traits to the next generation is called **natural selection**
+- Natural selection acts on traits in the DNA
+	- .
+- Keystone Species
+	- The top predator in a biological community
+	- Keeps the balance of the communities
+	- 
