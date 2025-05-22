@@ -3,7 +3,7 @@ Readings:
 	- Chapter conclusions are important for the midterm and final exam
 	- 
 
-Lecture 3: Environmental Systems - Energy and Material Cycles, Part 1
+**Lecture 3: Environmental Systems - Energy and Material Cycles, Part 1**
 - Learning Outcomes: 
 	- Learn the building blocks of the ecosystem
 	- Learn about the elements of life: Matter, Energy, and the Ecosystem
@@ -88,7 +88,7 @@ Lecture 3: Environmental Systems - Energy and Material Cycles, Part 1
 
 
 
-Lecture 4: Evolution Species Interactions
+**Lecture 4: Evolution Species Interactions**
 - Learning outcomes: 
 	- Learn about evolution, adaptation, and symbiosis
 - Case study: Darwin

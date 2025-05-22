@@ -1,6 +1,87 @@
-Prep Notes:
+**Lecture 1**
 
 
-
-Lecture Notes:
-
+**Lecture 2: Environmental Issues and Science**
+- What is Environmental Science?
+	- The systematic study of our environment. It draws on many fields of knowledge to fully understand a problem and solve it
+- ENV Science as a global subject
+	- There are many interdependencies between global and regional environmental systems
+	- The best way to learn of these systems is to study it in the context of real places
+- Environmental and Political Challenges
+	- Climate Change
+		- Human activity has increased concentrations of CO 2 and other "greenhouse" gasses over the last 200 years
+		- Models indicate that by 2100, global mean temperatures will be between 2 and 6 degrees Celsius (provided we continue our current trends)
+	- Hunger
+		- Over the past century, global food production has increased faster than human population growth, but hunger still remains a problem.
+	- Clean water
+		- 1.1 billion people lack access to safe drinking water
+		- Polluted water contributes to the death of more than 15 million people per year
+	- Energy Resources
+		- Usage of fossil fuels provide around 80 percent of the energy used in industrialized countries
+		- Acquisition and use of these fuels are a problem, especially with how their supplies are diminishing
+		- We should invest in renewable energy and energy conservation measures
+	- Air quality
+		- Has worsened in many areas, especially china and india
+		- Paul crutzen estimates that at least 3 million people die each year from air pollution
+		- UN estimates that more than 2 billion metric tons of air pollutants are released each year
+	- Biodiversity loss
+		- Such as habitat destruction, overexploitation, pollution
+	- Marine resources
+		- More than a billion people depend on seafood for their main source of protein, leading to severely depleting marine life
+- Signs of progress
+	- Population: average children born has decreased
+	- Health: life-threatening diseases such as smallpox have been reduced sharply in most countries, and life expectancies have nearly doubled
+	- Renewable energy: progress is made worldwide, and growth in wind energy, solar, and biomass power have begun to reduce reliance on fossil fuels
+	- Information and education: literacy and access to education is expanding worldwide, and the internet made it easier to share environmental solutions. Expanding education for girls is driving declining birth rates worldwide
+	- Conservation of forests and nature preserves: deforestation has slowed in asia, and 13.5 percent of the world's and area is now in protected areas
+	- Protection of marine resources: better monitoring is now rampant for more sustainable management, and marine reserves have been established worldwide
+- Ecosystem services
+	- Explains cycles
+- Sustainability means environmental and social progress:
+	- Sustainability is a search for a long term ecological stability and human progress
+	- WHO director has defined sustainable development as "meeting the needs of the present without compromising the ability of future generations to meet their own needs"
+- Science and how it helps understanding the environment
+	- Science is a process for producing knowledge based on observations
+	- We develop theories using these observations
+- Scientific method
+	- Ask a question
+	- Propose a hypothesis
+	- Test it
+	- Gather data
+	- Interpret results
+- What is sound science?
+	- Science backed by evidence (as opposed to pseudoscience)
+- Eons
+	- AN eon is the largest geochronologic time unit
+	- Four formally defined eons
+		- The hadean
+		- Archean
+		- Proterozoc
+		- Phanerozoic
+- Eras
+	- Second largest geochornological time unit
+	- Four main ones:
+		- Precambran
+		- Paleozoic
+		- Mesozoic
+		- Cenozoic
+- Earth's formation
+	- Stages
+		- Planet forming from dust
+		- Water 
+		- Moon formation
+		- Core accretion
+		- Magnetic field
+		- Late bombardment stage
+	- Cooling and primitive life
+		- Cyanobacteria: a microorganism capable of photosynthesis, which produced oxygen for the earth
+	- Oxygenation of the earth
+		- Oxygenation of the atmosphere destabilized methane, a greenhouse gas, causing a collapse of the greenhouse effect, and triggering a sever cooling condition of the climate
+	- Cambrian explosion
+		- Large plants kept producing oxygen
+		- Major shifts in earths climate contributed to the destruction of these plant forests, resulting in the carboniferous rainforest collapse
+		- The compacting of the forest formed the majority of coal deposits in the world and the collapse of the forests dominating the land cleared the space for the development of reptiles
+	- The age of reptiles and dinosaurs
+		- Provided the spread of seeded plants, and resulted in oxygen content jumping to 35% compared to today's 21%
+	- The age of mammals and homo sapiens
+		- The last ice age (pleistocene epoch) began 1.8 million years ago and lasted until 11,700 years ago
