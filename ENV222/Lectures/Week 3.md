@@ -9,4 +9,124 @@ Lecture 5:
 	- 95% of farmers are located in the global south (often poor)
 	- **95% of our food comes from farming (emphasizing on how important it is, while still being neglected)**
 	- Agricultural land occupies nearly half the planet's land area and rivals forests as the largest terrestrial biomes => **hence having food production being the largest ecological footprint**
-	- 
+
+Lecture 6: 
+Part I
+- Historical perspectives: Energy, Industrialization, and consumerism
+	- Describe, analyze how changes in the use of energy and the industrial revolution transformed human-nature relations
+- Energy before 1800
+	- Mechanical energy (i.e. energy causing something to move), came from human labour by 3/4%
+	- Pre-19 th: 3/4 of mechanical energy came from humans, rest from animals (linked to slavery an servitude labour)
+	- 1/3 population slaves in athens and roman empire (link to war)
+	- Limited additional sources until 19 th century (wood, coal, etc.): relatively hard to transport
+	- Enslavement of people and animals: anthropocentrism, domination, etc. Vs. Rights and liberal democracy
+	- Deforestation: In UK, demand for coal rose as wood supplies depleted by beginning of 17 th century
+	- Early textiles from water power in UK was cheaper than steam engines
+- Possible connections with abolition of slavery
+	- Abolition of slavery happened due to movements to abolish it
+	- Industrial revolution meant that the industry did not need human labour at the same extent
+	- This had a significant economic and political factors more receptive to abolition
+- The rise of coal
+	- China: 11-12 th century to early industrialisation
+	- 13-14 th century coal in Europe, but small scale
+	- Availability of coal to industrialisation 
+	- Move to non-renewable fuels (200 million year old forests) => shift to high energy use
+	- World enegy increased by 3 x due to coal
+	- Coal usage: 10 million tonnes by 1800, 76 million tonnes by 1850, 760 million tonnes by 1900
+	- Usage from 1898-1900 > 1700's 90% of energy
+	- Coal gas fueled lighting; coal fueled mills, ships, and trains
+	- Peak use in Europe in 1950, but still grew elsewhere
+- Spread of industrial revolution: Europe
+	- Map shows how from 1840 s, coal spread from west to east upto 1880 s
+- Key technologies
+	- Some key inventions driving the industrial revolution were trains, steam engines, improved steel, electric motors, telephones, toilets, etc.
+- Industrial revolution timeline
+	- 1712: first steam engine
+	- 1757: india generated around 25% of the worlds GDP
+	- 1764: watt's steam engine
+	- 1776: smith: wealth of nations
+	- 1800: 10 million tonnes coal in UK
+	- 1824: legalised unions in UK
+	- 1848: communist manefisto
+	- 1855: Bessemer: better steel
+	- 1875: Public Health Act UK
+	- 1905: 220 million tonnes coal UK
+- Some interconnections
+	- Colonisation: link between colonisation and consumption of raw materials (wood, itron, gold, etc.)
+	- India: from center of production to market for UK goods
+	- From 1850, tech innovations was more dependent on science
+	- Rise of economies of scale, division of labour, mass production, standardization => workers as consumers?
+	- Changes in communications and transportation => social and economic changes (globalization)
+	- Technology transformed war and made it much more lethal
+	- Technological change drove growth in production, but consumption and capitalism also drove tech changes and growth
+- Electricity use
+	- 1821: first electric motor
+	- 1831: first generator
+	- Advantages: clean, easy to transport, instant
+	- 1875: first large-scale lighting (paris), using arc lams
+	- 1879: edison created the bulb => NY lighting in 1880
+	- Use rose rapidly during 20 th century
+	- Niagara falls hydro in 1886
+	- 1950: generation used 10% of fossil fuels
+	- Generation uses 40% of fossil fuels by 2000
+	- Europe: electric consumption 26 x increase from 1920 to 1970, doubled again since 1980\
+- Oil use:
+	- Exploitation began in PA in 1859
+	- Lack of whale oil, initially used for kerosene
+	- Later, furnaces and internal combustion engines and ships were made, using high energy concentrations due to them being portable
+	- By 1930, gasoline and aviation fuel dominated the field, produced in russia, texas, venezuela, mexico, romania, and the middle east
+	- 1900-2000: 380 fold increase in usage, and 90% of energy used in transportation was from oil
+- Global primary energy consumption, 1800-2015:
+	- Graph shows how over time, coal, crude oil, natural gas were used as the major material for energy
+- Important figures
+	- Francis Bacon (1561-1626)
+		- The father of modern science
+		- Used science as interrogation
+	- Adam smith (1723-1790)
+		- Talked about how seeking self-interest results in the common good
+		- Consumption and luxury and luxury was previously seen as excess and lechery
+- Assumptions: Subdue Nature
+	- Subduing nature: francis bacon + rene descartes (automata) removing constraints to exploit nature
+	- Locke: land could not be owned if it was not first "improved" => implications for indigenous peoples
+- Assumptions: Mechanism
+	- From organism to machine: mechanical law of motion/nature: god as clockmaker, lawgiver, engineer
+- Global urbanization (migration to cities)
+	- Graph shows how urbanization increased over time
+Part II: consumerism
+- Consumerism and culture
+	- Consumerism: a way of life that is perpetually preoccupied with the pursuit, possession, rapid displacement, and replacement of a seemingly inexhaustible supply of things.
+		- Represents the crass elevation of material acquisition
+- Beyond consumerism
+	- There should be a cultural orientation that leads people to find meaning, contentment, and acceptance through what they consume
+- Sustainable consumption
+	- Technology plays a role in reducing consumption/pollution, but would still require a lower consumption than typical in Europe or NA
+	- Graph shows different consumption levels in a population
+- Historical perspectives
+	- Between 15 th and 18 th centuries, the world of goods was expanding in unprecedented ways
+	- Minerals and exotic plants were discovered and exploited in trades
+	- David hume defended this consumerist period, stating that it made nations richer, more civilized, and stronger
+	- William stanley jevons: value of goods depends not on materials and labour, but on how much it is desired
+	- Alfred marshall: needs and desires are not static, they can change
+	- Initial peek of consumerism before WW 1, then less between WW's, then grew again in the 1950's
+	- Designing products with short life spans was a trend, built-in obsolesce
+- Vector Lebow (Post WW 2)
+	- Stated how we need things burned up, consumed, worj out, replaced, and discarded at an ever increasing rate
+	- We cannot convert buying into rituals
+- Advertising and its observations
+	- Advertising creates a world dominated by things and appetites vs. Living relationships (objects)
+	- Fordism: division of labour and assembly lines, standardized parts and components, etc.
+	- Transition from a heavy producer capitalism to a more liquid consumer capitalism
+	- Caused a feedback loop: satisfaction via consumption, not work and creativity
+	- Focused on increased consumption, not leisure
+	- Consumer purchases = 70% of US GDP 
+- Diminishing returns
+	- The richer a family gets, the smaller the reduction in negative emotions, as seen in the graph on the slide
+- Costa Rica: "Pura Vida" (True life)
+	- The happy planet index rates Costa Rica as the happiest and most sustainable country in the world: average income is 1/4 that of canada
+	- Removed their army in favor of supporting their citizens
+- Assadourian: Beyond consumerism
+	- Discourage consumption that undermines well-being
+	- From private to public goods: Parks, recreation, public transit, etc. Over private goods
+	- Use "cradle to cradle" design of goods (durable, fixable, beautiful, functional)
+	- Find happiness in relationships and ecological restoration?
+	- Work to achieve greater equity

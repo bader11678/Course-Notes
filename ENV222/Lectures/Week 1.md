@@ -1,0 +1,31 @@
+Lecture 1: Introduction
+- Humanity at crossroads
+	- Eco-crisis threatens human civilization and ecosystems
+	- Brown's Plan B suggested a possible reduction in CO 2 by 80%, to eliminate poverty, reduce the population < 8 billion, and to restore natural systems... But people lack political will, and need a new mindset
+	- Rockstrom's planetary limits graphs shows 9 different categories
+		- **Climate change**: the change in the ratio of incoming and outgoing energy of the earth, caused by increased greenhouse gasses and aerosols **(BOUNDARY HAS BEEN TRANSGRESSED)**
+		- **Novel entities**: includes synthetic chemicals and substances, radioactive materials, and human interventions in evolutionary processes **(BOUNDARY HAS BEEN TRANSGRESSED)**
+		- **Stratospheric ozone depletion**: the ozone layer protects life on earth from harmful UV radiation, its thinning is mainly caused by human-made chemicals, allowing more harmful UV radiation to reach the earth's surface **(BOUNDARY IS WITHIN SAFE LEVELS)**
+		- **Atmospheric Aerosol Loading**: the rise in airborne particles from human activities or natural sources, which influence the climate by altering temperature and precipitation patterns **(BOUNDARY IS WITHIN SAFE LEVELS)**
+		- **Ocean Acidification**:  The phenomenon of increasing acidity (decreasing pH levels) in ocean water due to absorption of atmospheric CO 2, harming organisms and impacting marine ecosystems **(BOUNDARY IS WITHIN SAFE LEVELS, BUT CLOSE TO TRANSGRESSING)**
+		- **Biogeochemical flows**: the disruption of the natural nutrient cycles of key elements like nitrogen and phosphorus through the environment and organisms, which are important in maintaining ecosystems **(BOTH BOUNDARIES HAVE BEEN TRANSGRESSED)**
+		- **Freshwater change**: alteration of freshwater cycles, including rivers and soil moisture **(BOUNDARY EXCEEDED SAVE LEVELS)**
+		- **Land-system change**: transformation of natural landscapes, such as through deforestation and urbanization. **(BOUNDARY HAS BEEN TRANSGRESSED)**
+		- **Biosphere integrity**: decline in diversity of living organisms and ecosystems **(BOUNDARY HAS BEEN TRANSGRESSED)**
+	- Planetary boundaries are interdependent, meaning that if we cross one boundary, we will affect others
+	- Some Interconnections in ecological systems
+		- Inequality and poverty <=> climate change effects
+		- Profit motive and deforestation <=> climate change
+		- Industrial agriculture <=> eutrophication
+		- Overconsumption /= overpopulation
+		- Ocean acidification <=> climate change <=> Biodiversity loss
+		- Deforestation <=> climate change
+		- Global warming <=> disease spread
+	- Depleting the earth
+		- It takes 500 years to build one inch of top soil, yet we lose 23 billion tones of soil each year
+	- Poisoning life
+		- 70,000 new chemicals have been made and used in the last 50 years
+		- Nuclear wastes are dangerous and can remain for 1/4 million years
+		- CO 2 levels are rising rapidly, and on target to raise temperatures to at least 3.5 C
+		- 8 million tones of plastic enter the ocean each year, and by 2050, more plastic will be present in them than fish
+		- 
